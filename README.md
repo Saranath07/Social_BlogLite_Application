@@ -7,4 +7,4 @@ Run this command,
 pip install -r requirements.txt
 And then run this command
 python main.py
-Web server starts on port 8080 and you can start to work.
+Web server starts on port 5000 and you can start to work.
